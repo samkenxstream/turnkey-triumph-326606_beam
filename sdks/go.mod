@@ -25,7 +25,7 @@ go 1.18
 require (
 	cloud.google.com/go/bigquery v1.44.0
 	cloud.google.com/go/datastore v1.10.0
-	cloud.google.com/go/pubsub v1.27.1
+	cloud.google.com/go/pubsub v1.28.0
 	cloud.google.com/go/storage v1.28.1
 	github.com/docker/go-connections v0.4.0
 	github.com/go-sql-driver/mysql v1.6.0
