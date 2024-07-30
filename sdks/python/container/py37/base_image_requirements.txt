@@ -66,7 +66,7 @@ google-resumable-media==2.4.1
 googleapis-common-protos==1.59.0
 greenlet==2.0.2
 grpc-google-iam-v1==0.12.6
-grpcio==1.53.0
+grpcio==1.53.2
 grpcio-status==1.53.0
 guppy3==3.1.2
 hdfs==2.7.0
